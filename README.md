@@ -173,7 +173,7 @@ For more information refer to [Using Docker and Docker-Compose][], this page als
 
 To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
 
-## Important Instructions (Saptorshi Team)
+## Important Instructions
 
 -   Do not use submit during save or update if you are using child components. It will create reverse route issue.
 
